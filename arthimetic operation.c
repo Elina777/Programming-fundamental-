@@ -1,5 +1,5 @@
 /*
-student name:elina singh thapa
+student name: sushant aryal
 subject:programming fundamentals
 roll no:17
 lab sheet:06
