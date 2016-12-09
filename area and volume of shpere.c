@@ -1,5 +1,5 @@
 /*
-name:manish silpakar
+name:elina singh thapa
 subject:programming fundamental
 roll no:
 program: to print a area and perimeter of rectangle
