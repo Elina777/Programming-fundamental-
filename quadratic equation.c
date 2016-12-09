@@ -1,5 +1,5 @@
 /*
-name:manish silpakar
+name:elina singh thapa
 subject:programming fundamental
 roll no:
 program:to find roots of quadratic equation and value of assigned from user
