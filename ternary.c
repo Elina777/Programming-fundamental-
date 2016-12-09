@@ -1,5 +1,5 @@
 /*
-student name:nikita lama
+student name:elina singh thapa
 subject     :programming fundamental
 roll no     :20
 lab no      :10
